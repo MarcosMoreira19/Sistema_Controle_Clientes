@@ -1,0 +1,28 @@
+C:\Users\JoãoPaulo\Desktop\controle\AtividadeControle\bin\Debug\net8.0\AtividadeControle.exe
+C:\Users\JoãoPaulo\Desktop\controle\AtividadeControle\bin\Debug\net8.0\AtividadeControle.deps.json
+C:\Users\JoãoPaulo\Desktop\controle\AtividadeControle\bin\Debug\net8.0\AtividadeControle.runtimeconfig.json
+C:\Users\JoãoPaulo\Desktop\controle\AtividadeControle\bin\Debug\net8.0\AtividadeControle.dll
+C:\Users\JoãoPaulo\Desktop\controle\AtividadeControle\bin\Debug\net8.0\AtividadeControle.pdb
+C:\Users\JoãoPaulo\Desktop\controle\AtividadeControle\obj\Debug\net8.0\AtividadeControle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoãoPaulo\Desktop\controle\AtividadeControle\obj\Debug\net8.0\AtividadeControle.AssemblyInfoInputs.cache
+C:\Users\JoãoPaulo\Desktop\controle\AtividadeControle\obj\Debug\net8.0\AtividadeControle.AssemblyInfo.cs
+C:\Users\JoãoPaulo\Desktop\controle\AtividadeControle\obj\Debug\net8.0\AtividadeControle.csproj.CoreCompileInputs.cache
+C:\Users\JoãoPaulo\Desktop\controle\AtividadeControle\obj\Debug\net8.0\AtividadeControle.dll
+C:\Users\JoãoPaulo\Desktop\controle\AtividadeControle\obj\Debug\net8.0\refint\AtividadeControle.dll
+C:\Users\JoãoPaulo\Desktop\controle\AtividadeControle\obj\Debug\net8.0\AtividadeControle.pdb
+C:\Users\JoãoPaulo\Desktop\controle\AtividadeControle\obj\Debug\net8.0\AtividadeControle.genruntimeconfig.cache
+C:\Users\JoãoPaulo\Desktop\controle\AtividadeControle\obj\Debug\net8.0\ref\AtividadeControle.dll
+C:\Users\JoãoPaulo\Desktop\Nova pasta (8)\AtividadeControle\bin\Debug\net8.0\AtividadeControle.exe
+C:\Users\JoãoPaulo\Desktop\Nova pasta (8)\AtividadeControle\bin\Debug\net8.0\AtividadeControle.deps.json
+C:\Users\JoãoPaulo\Desktop\Nova pasta (8)\AtividadeControle\bin\Debug\net8.0\AtividadeControle.runtimeconfig.json
+C:\Users\JoãoPaulo\Desktop\Nova pasta (8)\AtividadeControle\bin\Debug\net8.0\AtividadeControle.dll
+C:\Users\JoãoPaulo\Desktop\Nova pasta (8)\AtividadeControle\bin\Debug\net8.0\AtividadeControle.pdb
+C:\Users\JoãoPaulo\Desktop\Nova pasta (8)\AtividadeControle\obj\Debug\net8.0\AtividadeControle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoãoPaulo\Desktop\Nova pasta (8)\AtividadeControle\obj\Debug\net8.0\AtividadeControle.AssemblyInfoInputs.cache
+C:\Users\JoãoPaulo\Desktop\Nova pasta (8)\AtividadeControle\obj\Debug\net8.0\AtividadeControle.AssemblyInfo.cs
+C:\Users\JoãoPaulo\Desktop\Nova pasta (8)\AtividadeControle\obj\Debug\net8.0\AtividadeControle.csproj.CoreCompileInputs.cache
+C:\Users\JoãoPaulo\Desktop\Nova pasta (8)\AtividadeControle\obj\Debug\net8.0\AtividadeControle.dll
+C:\Users\JoãoPaulo\Desktop\Nova pasta (8)\AtividadeControle\obj\Debug\net8.0\refint\AtividadeControle.dll
+C:\Users\JoãoPaulo\Desktop\Nova pasta (8)\AtividadeControle\obj\Debug\net8.0\AtividadeControle.pdb
+C:\Users\JoãoPaulo\Desktop\Nova pasta (8)\AtividadeControle\obj\Debug\net8.0\AtividadeControle.genruntimeconfig.cache
+C:\Users\JoãoPaulo\Desktop\Nova pasta (8)\AtividadeControle\obj\Debug\net8.0\ref\AtividadeControle.dll
